@@ -1,0 +1,12 @@
+
+
+# HOW TO CREATE JUPYTER NOTEBOOK
+# - 1st need to create a directory
+# - then run venv in that directory
+# - then install jupyter = "pip install jupyter"
+# - then send all the installers into requiremens by running "pip freeze > req.txt" 
+# - install libs from requirements.txt = " pip install -r requirements.txt"
+# this command to run the jupyter notebook in python ven 
+
+# jupyter notebook
+
